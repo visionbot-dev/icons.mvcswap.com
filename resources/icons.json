@@ -265,6 +265,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "METAID",
             "logo": "w-metaid.png"
+        },
+        {
+            "genesis": "05ac39894e9d502a9f6214b0bb3de4463cb98a96",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "METASO",
+            "logo": "w-metaso.png"
         }
     ]
 }
